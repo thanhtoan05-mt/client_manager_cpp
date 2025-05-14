@@ -1,0 +1,5 @@
+hoc cplusplus
+30 ngay hoc c++ co ban
+
+a+b=7
+@ $ %
